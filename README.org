@@ -2,3 +2,6 @@
 * car
 * airplane
 * bike
+* satellite
+* bridge
+* 
