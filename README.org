@@ -1,1 +1,4 @@
 * CPU
+* car
+* airplane
+* bike
