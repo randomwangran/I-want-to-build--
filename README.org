@@ -1,1 +1,7 @@
 * CPU
+* car
+* airplane
+* bike
+* satellite
+* bridge
+* 
