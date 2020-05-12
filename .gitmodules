@@ -1,3 +1,6 @@
 [submodule "CPU"]
 	path = CPU
 	url = git@github.com:randomwangran/CPU.git
+[submodule "design-our-bike"]
+	path = design-our-bike
+	url = https://github.com/casdu/design-our-bike
