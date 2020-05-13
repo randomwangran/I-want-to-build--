@@ -4,4 +4,8 @@
 * bike
 * satellite
 * bridge
-* 
+* phone
+* fire
+* turbine
+* tunnel
+* dam
