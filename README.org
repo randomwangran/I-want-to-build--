@@ -12,3 +12,5 @@
 * power meter
 * [[https://scoollab.web.cern.ch/diy-particle-detector][particle-detector]]
 - github: https://github.com/ozel/DIY_particle_detector
+* GPS-recevier
+- https://github.com/CoreSemi/gnss-baseband
